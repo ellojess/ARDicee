@@ -1,2 +1,2 @@
-# ARDicee
-AR 3D Dice
+# AR Dicee
+Augmented reality mobile app that simulates dice rolling 
